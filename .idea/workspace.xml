@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08264eb7-94b1-4398-8d2e-78349b3c8c88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1glp92xo3fbJtVxUz7iXcocQJak" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08264eb7-94b1-4398-8d2e-78349b3c8c88" name="Default Changelist" comment="" />
+      <created>1598698878729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598698878729</updated>
+      <workItem from="1598698883234" duration="5634000" />
+      <workItem from="1598735702592" duration="256000" />
+      <workItem from="1598736192576" duration="768000" />
+      <workItem from="1598873171120" duration="2904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="374" y="131" key="#ESLint" timestamp="1598736463083">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="-1359" y="-194" key="#ESLint/0.23.1280.777/-1920.-388.1920.1057@-1920.-388.1920.1057" timestamp="1598702827650" />
+    <state x="374" y="131" key="#ESLint/0.23.1280.777@0.23.1280.777" timestamp="1598736463083" />
+    <state x="-1197" y="-60" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598699325500">
+      <screen x="-1920" y="-388" width="1920" height="1057" />
+    </state>
+    <state x="-1197" y="-60" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777/-1920.-388.1920.1057@-1920.-388.1920.1057" timestamp="1598699325500" />
+    <state x="378" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598736966676">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="378" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.777@0.23.1280.777" timestamp="1598736966676" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1598701191616">
+      <screen x="-1920" y="-388" width="1920" height="1057" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1280.777/-1920.-388.1920.1057@-1920.-388.1920.1057" timestamp="1598701191616" />
+  </component>
+</project>
