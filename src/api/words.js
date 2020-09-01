@@ -2,9 +2,13 @@ const express = require('express');
 const monk = require('monk');
 const Joi = require('@hapi/joi');
 
-const db = monk(process.env.MONGO_URI);
+const url = 'ScrabbleAPI:ScrabbleAPI@localhost:27017/words';
+// const url = 'admin:2020Admin2020@localhost:27017/words';
+const db = monk(url);
+
+// const db = monk(process.env.MONGO_URI);
 // const db = monk(process.env.MONGO_ADMIN_URI);
-const words = db.get('documents');
+const words = db.get('words');
 
 const schema = Joi.object({
   word: Joi.string().trim().required(),
@@ -17,7 +21,10 @@ router.get('/', async (req, res, next) => {
   try {
     const items = await words.find({});
 
-    return res.json(items);
+    //return res.json(items);
+    return res.json({
+      message: 'Welcome'
+    });
   } catch (e) {
     return next(e);
   }
@@ -50,6 +57,8 @@ router.post('/', async (req, res, next) => {
 
 router.put('/:word', async (req, res, next) => {
   try {
+
+    const { word } = req.params;
     const value = await schema.validateAsync(req.body);
     const item = await words.findOne({
       word,
